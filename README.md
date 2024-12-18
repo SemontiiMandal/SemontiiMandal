@@ -2,6 +2,7 @@
 #### Electrical Engineering, University of Toronto
 Hi, I’m Semontii, a first-year Electrical Engineering student at the University of Toronto with a passion for Robotics, AI, and their potential to drive societal change. Skilled in Programming, Machine Learning, and Robotics, I’ve undertaken specialized projects to deepen my expertise. I’m seeking internships to grow professionally and contribute to solving real-world challenges through innovative technology.
 
+
 #### Skills:
 
 **Programming:** Python (Proficient), JAVA (Proficient), MATLAB (Proficient), C++ (Proficient), HTML (Intermediate), CSS(Intermediate), JavaScript (Intermediate), C (Beginner), HASKELL (Beginner)
@@ -9,6 +10,7 @@ Hi, I’m Semontii, a first-year Electrical Engineering student at the Universit
 **Machine Learning / Artificial Neural Networks:** Regression, Classification, Image Processing, using NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, TensorFlow, OpenCV 
  
 **Robotics:** Arduino, IoT Modules, Computer Aided Design (CAD) - AutoCAD, Simulation - Simulink, Finite Element Analysis (FEA)
+
 
 **Ongoing Project**
 
