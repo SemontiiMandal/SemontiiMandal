@@ -12,7 +12,7 @@ Hi, I’m Semontii, a first-year Electrical Engineering student at the Universit
 **Robotics:** Arduino, IoT Modules, Computer Aided Design (CAD) - AutoCAD, Simulation - Simulink, Finite Element Analysis (FEA)
 
 
-**Ongoing Project**
+**Ongoing Project:**
 
 🔭 I’m currently working on a wearable Breathing Biofeedback device to monitor breathing patterns and detect diseases. 
 
