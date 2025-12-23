@@ -21,13 +21,18 @@ Hi! I’m Sam, a second-year Electrical Engineering student at the University of
 **Embedded Systems & Robotics:**  
 ![STM32](https://img.shields.io/badge/STM32-007ACC?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge&logo=espressif&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-222C37?style=for-the-badge&logo=ros&logoColor=61DAFB) 
 ![CAN](https://img.shields.io/badge/CAN-%2300BFFF?style=for-the-badge) 
 ![I2C](https://img.shields.io/badge/I2C-%2300BFFF?style=for-the-badge) 
 ![SPI](https://img.shields.io/badge/SPI-%2300BFFF?style=for-the-badge) 
 ![UART](https://img.shields.io/badge/UART-%2300BFFF?style=for-the-badge) 
-![JTAG](https://img.shields.io/badge/JTAG-%2300BFFF?style=for-the-badge) 
+![JTAG](https://img.shields.io/badge/JTAG-%2300BFFF?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-007ACC?style=for-the-badge) 
+![Verilog](https://img.shields.io/badge/Verilog-FFB13B?style=for-the-badge&logo=verilog&logoColor=black) 
+![Quartus](https://img.shields.io/badge/Quartus-FF3C38?style=for-the-badge) 
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge) 
 
 **Machine Learning & Signal Processing:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -41,7 +46,6 @@ Hi! I’m Sam, a second-year Electrical Engineering student at the University of
 **Hardware & Tools:**  
 ![Altium](https://img.shields.io/badge/Altium-%23FF3C38?style=for-the-badge&logo=altium&logoColor=white) 
 ![KiCad](https://img.shields.io/badge/KiCad-FF3C38?style=for-the-badge&logo=kicad&logoColor=white) 
-![FPGA](https://img.shields.io/badge/FPGA-007ACC?style=for-the-badge) 
 ![LTSpice](https://img.shields.io/badge/LTSpice-007ACC?style=for-the-badge) 
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-00BFFF?style=for-the-badge) 
 ![Logic Analyzer](https://img.shields.io/badge/Logic_Analyzer-00BFFF?style=for-the-badge) 
