@@ -10,13 +10,9 @@ Hi! I’m Sam, a second-year Electrical Engineering student at the University of
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 **Embedded Systems & Robotics:**  
 ![STM32](https://img.shields.io/badge/STM32-007ACC?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
